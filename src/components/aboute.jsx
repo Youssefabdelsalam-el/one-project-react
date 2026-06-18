@@ -3,7 +3,7 @@ import React from 'react'
 export default function aboute() {
   return (
     <>
-        <div className="aboute fade-up">
+        <div className="aboute grid grid-cols-2 items-center justify-between px-20 fade-up">
       <div className="text flex flex-col gap-6">
         <h1 className="text-[48px]  leading-none text-[#9A0EB0]">About Us</h1>
         <h4  className="text-[32px] leading-[150%]">Grow Your Business <br /> With Our Agency </h4>
